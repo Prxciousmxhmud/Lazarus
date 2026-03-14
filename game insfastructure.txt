@@ -1,0 +1,9 @@
+HTML & CSS
+boxes - to jump over 
+graves - tombstones, revival?
+
+JS
+move forward
+double jump 
+jump 
+natural down - grvity 
