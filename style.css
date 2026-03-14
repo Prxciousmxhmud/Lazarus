@@ -1,4 +1,23 @@
 body{
-    background-image: url("pictures/background.png");
-    background-size: 100%;
+    /*background-image: url("pictures/background.png");
+    background-size: 100%;*/
+    
 }
+<<<<<<< HEAD
+=======
+
+#game {
+    display: flex;
+    align-content:center;
+    justify-content: center;
+}
+
+#canvas {
+    
+}
+
+#avatar{
+    width: 100px;
+    height: 100px;
+}
+>>>>>>> 9db32fd (added sprite)
